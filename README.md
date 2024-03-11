@@ -2,6 +2,12 @@ This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next
 
 ## Getting Started
 
+1. Node 서버 올리기
+   npx json-server@0.17.4 --port 9999 --watch db.json
+
+2. NextJs 실행
+   npm run dev
+
 First, run the development server:
 
 ```bash
